@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b2653fe76e96fb218a4b8e38dfe828c0.js"
+  "/precache-manifest.cd0313dcee5b1bc008d0088d2154ae5a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cnode"});
