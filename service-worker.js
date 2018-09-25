@@ -11,13 +11,13 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.524d945931757fe4a1708462905ed786.js"
+  "/precache-manifest.49f36caec4863b3645ed04317a4a8b3b.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "cnode"});
+workbox.core.setCacheNameDetails({prefix: "materialcnode"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
