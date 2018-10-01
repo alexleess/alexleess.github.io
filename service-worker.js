@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.020f9dea18a561526de9bdca8b0c44df.js"
+  "/precache-manifest.6a0e32ff29a70b267373ed62a8a48761.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "materialcnode"});
